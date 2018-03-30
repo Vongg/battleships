@@ -8,3 +8,4 @@ The requirements:
 -PCvP
 -PCvPC
 -shoting alghoritm
+-cheats
